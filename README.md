@@ -1,0 +1,2 @@
+# safelinkgen
+free safelink gen
